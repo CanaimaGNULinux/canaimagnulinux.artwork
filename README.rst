@@ -10,7 +10,9 @@ Este paquete contiene los artes (artwork) del para el `sitio Web de Canaima GNU/
 Características
 ===============
 
-- Contiene formatos fuente en xcf y PNG.
+- Contiene tipografias en formato TTF.
+
+- Contiene formatos fuente en XCF, SVG y PNG.
 
 Descargas
 =========
@@ -21,6 +23,8 @@ en el `repositorio Canaima GNU/Linux`_ en Github.com.
 Autor(es) Original(es)
 ======================
 
+* Maximiliano Vilchez aka maxudes
+
 * Leonardo J .Caballero G. aka macagua
 
 Colaboraciones impresionantes
@@ -30,8 +34,8 @@ Colaboraciones impresionantes
 
 
 Para una lista actualizada de todo los colaboradores visite:
-https://github.com/canaimagnulinux/canaimagnulinux.web.artwork/contributors
+https://github.com/CanaimaGNULinux/canaimagnulinux.web.artwork/contributors
 
 .. _sitio Web de Canaima GNU/Linux: http://canaima.softwarelibre.gob.ve/
-.. _repositorio Canaima GNU/Linux: https://github.com/canaimagnulinux/canaimagnulinux.web.artwork
+.. _repositorio Canaima GNU/Linux: https://github.com/CanaimaGNULinux/canaimagnulinux.web.artwork
 
