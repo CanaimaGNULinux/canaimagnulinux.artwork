@@ -1,0 +1,590 @@
+@font-face {
+	font-family: 'FontCanaima';
+	src:url('fonts/FontCanaima.eot?-oaur50');
+	src:url('fonts/FontCanaima.eot?#iefix-oaur50') format('embedded-opentype'),
+		url('fonts/FontCanaima.ttf?-oaur50') format('truetype'),
+		url('fonts/FontCanaima.woff?-oaur50') format('woff'),
+		url('fonts/FontCanaima.svg?-oaur50#FontCanaima') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+i {
+	font-family: 'FontCanaima';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sofware_libre:before {
+	content: "\e600";
+}
+.icon-altamente_seguro:before {
+	content: "\e601";
+}
+.icon-anterior:before {
+	content: "\e602";
+}
+.icon-aplicaciones_ofimaticas:before {
+	content: "\e603";
+}
+.icon-arepa_linux:before {
+	content: "\e604";
+}
+.icon-ayuda:before {
+	content: "\e605";
+}
+.icon-boton:before {
+	content: "\e606";
+}
+.icon-buscar:before {
+	content: "\e607";
+}
+.icon-buscar_experto .path1:before {
+	content: "\e608";
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path2:before {
+	content: "\e609";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path3:before {
+	content: "\e60a";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path4:before {
+	content: "\e60b";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path5:before {
+	content: "\e60c";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path6:before {
+	content: "\e60d";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path7:before {
+	content: "\e60e";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path8:before {
+	content: "\e60f";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path9:before {
+	content: "\e610";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path10:before {
+	content: "\e611";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path11:before {
+	content: "\e612";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path12:before {
+	content: "\e613";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path13:before {
+	content: "\e614";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path14:before {
+	content: "\e615";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path15:before {
+	content: "\e616";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path16:before {
+	content: "\e617";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path17:before {
+	content: "\e618";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path18:before {
+	content: "\e619";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path19:before {
+	content: "\e61a";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path20:before {
+	content: "\e61b";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path21:before {
+	content: "\e61c";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path22:before {
+	content: "\e61d";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path23:before {
+	content: "\e61e";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path24:before {
+	content: "\e61f";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path25:before {
+	content: "\e620";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path26:before {
+	content: "\e621";
+	margin-left: -1em;
+	color: rgb(134,160,71);
+}
+.icon-buscar_experto .path27:before {
+	content: "\e622";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path28:before {
+	content: "\e623";
+	margin-left: -1em;
+	color: rgb(160,180,111);
+}
+.icon-buscar_experto .path29:before {
+	content: "\e624";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-buscar_experto .path30:before {
+	content: "\e625";
+	margin-left: -1em;
+	color: rgb(188,202,152);
+}
+.icon-buscar_experto .path31:before {
+	content: "\e626";
+	margin-left: -1em;
+	color: rgb(217,225,198);
+}
+.icon-buscar_experto .path32:before {
+	content: "\e627";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-canaima_caribay:before {
+	content: "\e628";
+}
+.icon-canaima_colibri:before {
+	content: "\e629";
+}
+.icon-canaima_comunitario:before {
+	content: "\e62a";
+}
+.icon-canaima_educativo:before {
+	content: "\e62b";
+}
+.icon-canaimaGNU-LINUX:before {
+	content: "\e62c";
+}
+.icon-canaimaGNU-LINUX_blanco:before {
+	content: "\e62d";
+}
+.icon-canaima_popular:before {
+	content: "\e62e";
+}
+.icon-canaima_popular_simbolo:before {
+	content: "\e62f";
+}
+.icon-canaima_universitario:before {
+	content: "\e630";
+}
+.icon-caracteristicas:before {
+	content: "\e631";
+}
+.icon-caribay:before {
+	content: "\e632";
+}
+.icon-cayapa_canaima:before {
+	content: "\e633";
+}
+.icon-colibri:before {
+	content: "\e634";
+}
+.icon-compatibilidad_hardware:before {
+	content: "\e635";
+}
+.icon-componentes_RNA:before {
+	content: "\e636";
+}
+.icon-comunal:before {
+	content: "\e637";
+}
+.icon-css3 .path1:before {
+	content: "\e638";
+	color: rgb(19,19,19);
+}
+.icon-css3 .path2:before {
+	content: "\e639";
+	margin-left: -1em;
+	color: rgb(21,114,182);
+}
+.icon-css3 .path3:before {
+	content: "\e63a";
+	margin-left: -1em;
+	color: rgb(51,169,220);
+}
+.icon-css3 .path4:before {
+	content: "\e63b";
+	margin-left: -1em;
+	color: rgb(255,255,255);
+}
+.icon-css3 .path5:before {
+	content: "\e63c";
+	margin-left: -1em;
+	color: rgb(235,235,235);
+}
+.icon-css3 .path6:before {
+	content: "\e63d";
+	margin-left: -1em;
+	color: rgb(255,255,255);
+}
+.icon-css3 .path7:before {
+	content: "\e63e";
+	margin-left: -1em;
+	color: rgb(235,235,235);
+}
+.icon-css3 .path8:before {
+	content: "\e63f";
+	margin-left: -1em;
+	color: rgb(235,235,235);
+}
+.icon-descarga_canaima_caribay .path1:before {
+	content: "\e640";
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_caribay .path2:before {
+	content: "\e641";
+	margin-left: -1em;
+	color: rgb(200,177,139);
+}
+.icon-descarga_canaima_caribay .path3:before {
+	content: "\e642";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_colibri .path1:before {
+	content: "\e643";
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_colibri .path2:before {
+	content: "\e644";
+	margin-left: -1em;
+	color: rgb(200,177,139);
+}
+.icon-descarga_canaima_colibri .path3:before {
+	content: "\e645";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_comunitario .path1:before {
+	content: "\e646";
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_comunitario .path2:before {
+	content: "\e647";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_comunitario .path3:before {
+	content: "\e648";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_comunitario .path4:before {
+	content: "\e649";
+	margin-left: -1em;
+	color: rgb(200,177,139);
+}
+.icon-descarga_canaima_comunitario .path5:before {
+	content: "\e64a";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_educativo .path1:before {
+	content: "\e64b";
+	color: rgb(200,177,139);
+}
+.icon-descarga_canaima_educativo .path2:before {
+	content: "\e64c";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_educativo .path3:before {
+	content: "\e64d";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_geocanaima .path1:before {
+	content: "\e64e";
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_geocanaima .path2:before {
+	content: "\e64f";
+	margin-left: -1em;
+	color: rgb(200,177,139);
+}
+.icon-descarga_canaima_geocanaima .path3:before {
+	content: "\e650";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_popular .path1:before {
+	content: "\e651";
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_popular .path2:before {
+	content: "\e652";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descarga_canaima_popular .path3:before {
+	content: "\e653";
+	margin-left: -1em;
+	color: rgb(200,177,139);
+}
+.icon-descarga_canaima_popular .path4:before {
+	content: "\e654";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-descargas .path1:before {
+	content: "\e655";
+	color: rgb(200,177,139);
+}
+.icon-descargas .path2:before {
+	content: "\e656";
+	margin-left: -1em;
+	color: rgb(109,141,36);
+}
+.icon-disco_canaima:before {
+	content: "\e657";
+}
+.icon-Django:before {
+	content: "\e658";
+}
+.icon-documentacion:before {
+	content: "\e659";
+}
+.icon-educativo:before {
+	content: "\e65a";
+}
+.icon-equipos:before {
+	content: "\e65b";
+}
+.icon-estar_conectado:before {
+	content: "\e65c";
+}
+.icon-facil_demostracion:before {
+	content: "\e65d";
+}
+.icon-fecha:before {
+	content: "\e65e";
+}
+.icon-forense:before {
+	content: "\e65f";
+}
+.icon-forja_canaima:before {
+	content: "\e660";
+}
+.icon-fotografia_video:before {
+	content: "\e661";
+}
+.icon-geo:before {
+	content: "\e662";
+}
+.icon-geo_canaima:before {
+	content: "\e663";
+}
+.icon-html5 .path1:before {
+	content: "\e664";
+	color: rgb(228,79,38);
+}
+.icon-html5 .path2:before {
+	content: "\e665";
+	margin-left: -1em;
+	color: rgb(241,102,42);
+}
+.icon-html5 .path3:before {
+	content: "\e666";
+	margin-left: -1em;
+	color: rgb(235,235,235);
+}
+.icon-html5 .path4:before {
+	content: "\e667";
+	margin-left: -1em;
+	color: rgb(235,235,235);
+}
+.icon-html5 .path5:before {
+	content: "\e668";
+	margin-left: -1em;
+	color: rgb(1,1,1);
+}
+.icon-html5 .path6:before {
+	content: "\e669";
+	margin-left: -1em;
+	color: rgb(1,1,1);
+}
+.icon-html5 .path7:before {
+	content: "\e66a";
+	margin-left: -1em;
+	color: rgb(1,1,1);
+}
+.icon-html5 .path8:before {
+	content: "\e66b";
+	margin-left: -1em;
+	color: rgb(1,1,1);
+}
+.icon-html5 .path9:before {
+	content: "\e66c";
+	margin-left: -1em;
+	color: rgb(255,255,255);
+}
+.icon-html5 .path10:before {
+	content: "\e66d";
+	margin-left: -1em;
+	color: rgb(255,255,255);
+}
+.icon-html5_logo:before {
+	content: "\e66e";
+}
+.icon-jquery:before {
+	content: "\e66f";
+}
+.icon-libre_virus_espias:before {
+	content: "\e670";
+}
+.icon-logo_css3:before {
+	content: "\e671";
+}
+.icon-maquina_canaima_instalado:before {
+	content: "\e672";
+}
+.icon-mas_programas:before {
+	content: "\e673";
+}
+.icon-mercado_de_servicios:before {
+	content: "\e674";
+}
+.icon-miembro_hombre:before {
+	content: "\e675";
+}
+.icon-miembro_mujer:before {
+	content: "\e676";
+}
+.icon-miles_aplicaciones_libres:before {
+	content: "\e677";
+}
+.icon-musica_tmoviles:before {
+	content: "\e678";
+}
+.icon-navegando_web:before {
+	content: "\e679";
+}
+.icon-necesito_ayuda:before {
+	content: "\e67a";
+}
+.icon-obten_canaima:before {
+	content: "\e67b";
+}
+.icon-obtener_codigos_fuentes:before {
+	content: "\e67c";
+}
+.icon-organizacion:before {
+	content: "\e67d";
+}
+.icon-Plone_logo:before {
+	content: "\e67e";
+}
+.icon-popular:before {
+	content: "\e67f";
+}
+.icon-porque_usar_canaima:before {
+	content: "\e680";
+}
+.icon-porque_usar_Softlibre:before {
+	content: "\e681";
+}
+.icon-prueba_canaimaAI:before {
+	content: "\e682";
+}
+.icon-que_hay_nuevo:before {
+	content: "\e683";
+}
+.icon-quien_usa_canaima:before {
+	content: "\e684";
+}
+.icon-redesSociales_email:before {
+	content: "\e685";
+}
+.icon-repositorioP_Fcenditel:before {
+	content: "\e686";
+}
+.icon-reuniones:before {
+	content: "\e687";
+}
+.icon-servicios_empresariales:before {
+	content: "\e688";
+}
+.icon-siguiente:before {
+	content: "\e68a";
+}
+.icon-sistema_poderoso:before {
+	content: "\e68b";
+}
+.icon-softwarelibre_CNTI:before {
+	content: "\e68c";
+}
+.icon-software_nuestra_medida:before {
+	content: "\e68d";
+}
+.icon-unirse_canaima:before {
+	content: "\e68e";
+}
+.icon-yo_quiero_aprender:before {
+	content: "\e68f";
+}
